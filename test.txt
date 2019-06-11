@@ -1,8 +1,17 @@
+touch FILE NAME  -->> create new file in the directory
 
-modifued
-modifued
-modifued
-modifued
-modifued
+git add FILE NAME -->> add it to git
 
-dfsfgdfgdfhfgvbnn
+git commit -m " to comment"
+
+git remote add origin https://github.com/Noobie404/FROM GIT REPOSITORY-->> To connect with github
+
+git push -u origin master -->> push directory file to github
+
+git log --oneline -->> to see all history of file editing comments
+
+git checkout LOG CODE FILE NAME -->> to revert to previous states
+
+git pull origin master -->> to pull file contents from github to directories........
+
+
